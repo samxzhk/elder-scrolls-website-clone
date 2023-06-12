@@ -16,6 +16,49 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 ~~~~
 
+#### Icons
+- magnifying glass icon
+
+~~~
+<ion-icon name="search-outline"></ion-icon>
+~~~
+
+- log out icon
+
+~~~
+<ion-icon name="log-out-outline"></ion-icon>
+~~~
+
+- reddit icon
+
+~~~
+<ion-icon name="logo-reddit"></ion-icon>
+~~~
+
+- Tumblr icon
+
+~~~
+<ion-icon name="logo-tumblr"></ion-icon>
+~~~
+
+- Facebook icon
+
+~~~
+<ion-icon name="logo-facebook"></ion-icon>
+~~~
+
+- Twitter icon
+
+~~~
+<ion-icon name="logo-twitter"></ion-icon>
+~~~
+
+- Discord icon
+
+~~~
+<ion-icon name="logo-discord"></ion-icon>
+~~~
+
 #### Text and Background Colors
 - I've used this tool to name the colors: (Color namer)[https://colornamer.robertcooper.me/]
 ~~~
@@ -70,4 +113,29 @@
 --mb-2-5: 2.5rem
 --mb-3: 3rem
 --mb-3-5: 3.5rem
+~~~
+
+#### Padding
+
+~~~
+--pd-05: 0.5rem
+--pd-1: 1rem
+--pd-1-25: 1.25rem
+--pd-1-5: 1.5rem
+--pd-2: 2rem
+--pd-2-5: 2.5rem
+--pd-3: 3rem
+
+~~~
+
+#### Container
+
+~~~
+--container-width: 1200px
+~~~
+
+#### Clip path shape
+
+~~~
+--clip-path-shape: polygon(10% 0%, 90% 0%, 100% 50%, 90% 100%, 10% 100%, 0% 50%) 
 ~~~
